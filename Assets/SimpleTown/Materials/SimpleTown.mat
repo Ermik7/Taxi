@@ -10,7 +10,7 @@ Material:
   m_Name: SimpleTown
   m_Shader: {fileID: 4800000, guid: f8d49205b3b0a644195633020367689d, type: 3}
   m_ValidKeywords:
-  - TCP2_DISABLE_WRAPPED_LIGHT
+  - TCP2_RAMPTEXT
   - _EMISSION
   m_InvalidKeywords: []
   m_LightmapFlags: 1
@@ -88,8 +88,8 @@ Material:
     - _SpecSmooth: 1
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _TCP2_DISABLE_WRAPPED_LIGHT: 1
-    - _TCP2_RAMPTEXT: 0
+    - _TCP2_DISABLE_WRAPPED_LIGHT: 0
+    - _TCP2_RAMPTEXT: 1
     - _TCP2_SPEC_TOON: 0
     - _TCP2_STYLIZED_FRESNEL: 0
     - _UVSec: 0
@@ -98,7 +98,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
-    - _HColor: {r: 1, g: 1, b: 1, a: 1}
+    - _HColor: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
     - _RimColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.6}
-    - _SColor: {r: 0.8018868, g: 0.6770648, b: 0.72841567, a: 1}
+    - _SColor: {r: 0.9150943, g: 0.7812834, b: 0.87834173, a: 1}
   m_BuildTextureStacks: []
